@@ -1,0 +1,18 @@
+// the synchronized block is utilized inside the if condition with an extra check to guarantee that just a single occurrence of LockSafe class is made
+public class LockSafe {
+
+    private static LockSafe instance;
+
+    private LockSafe () {}
+
+    public LockSafe getInstance(){
+        if(instance == null){
+            synchronized (LockSafe.class){
+                if (instance == null){
+                    return new LockSafe();
+                }
+            }
+        }
+        return instance;
+    }
+}
