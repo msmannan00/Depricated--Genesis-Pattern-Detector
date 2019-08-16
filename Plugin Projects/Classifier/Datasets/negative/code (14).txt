@@ -1,0 +1,16 @@
+public final class IvoryTower {
+
+  /**
+   * Private constructor so nobody can instantiate the class.
+   */
+  private IvoryTower() {}
+
+  /**
+   * Static to class instance of the class.
+   */
+  private static final IvoryTower INSTANCE = new IvoryTower();
+
+  public static IvoryTower getInstance() {
+    return INSTANCE;
+  }
+}

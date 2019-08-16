@@ -1,0 +1,21 @@
+public class EagerStaticBlock {
+
+    private static final EagerStaticBlock instance;
+
+    /** Don't let anyone else instantiate this class */
+    private EagerStaticBlock() {}
+
+    /** Create the one-and-only instance in a static block */
+    static {
+        try {
+            instance = new EagerStaticBlock();
+        } catch (Exception ex) {
+            throw ex;
+        }
+    }
+
+    /** Provide a public method to get the instance that we created */
+    public static EagerStaticBlock getInstance() {
+        return instance;
+    }
+}

@@ -1,0 +1,14 @@
+public class SimpleSin {
+	private static SimpleSin singleInstance =  new SimpleSin();
+
+	//Marking default constructor private
+	//to avoid direct instantiation.
+	private SimpleSin() {
+	}
+
+	//Get instance for class SimpleSin
+	public static SimpleSin getInstance() {
+
+		return singleInstance;
+	}
+}

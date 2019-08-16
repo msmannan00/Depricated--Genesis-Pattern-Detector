@@ -1,0 +1,17 @@
+public class stats {
+    private static stats instance;
+
+    private stats (){}
+
+    static {
+        try {
+            instance = new stats();
+        }catch (Exception e){
+            throw new RuntimeException("Exception occurred in creating singleton instance");
+        }
+    }
+
+    public stats getInstance(){
+        return instance;
+    }
+}

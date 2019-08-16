@@ -1,0 +1,15 @@
+public class Lazy {
+
+    private static Lazy obj;
+
+    private Lazy () {}
+
+    public static Lazy getInstance(){
+
+        if(obj == null){
+            obj = new Lazy();
+            return obj;
+        }
+        return obj;
+    }
+}

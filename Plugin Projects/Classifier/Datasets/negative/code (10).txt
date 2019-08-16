@@ -1,0 +1,41 @@
+/**
+ * Created by mimcrea on 22.01.2018.
+ */
+
+public class UserSingletonModel {
+    private static UserSingletonModel userModel;
+    private String userNickName, userFullName;
+    private Integer userAge;
+
+    public static UserSingletonModel getCurrentUser(){
+        if (userModel == null){
+            userModel = new UserSingletonModel();
+        }
+
+        return userModel;
+    }
+
+    public String getUserNickName() {
+        return userNickName;
+    }
+
+    public void setUserNickName(String userNickName) {
+        this.userNickName = userNickName;
+    }
+
+    public String getUserFullName() {
+        return userFullName;
+    }
+
+    public void setUserFullName(String userFullName) {
+        this.userFullName = userFullName;
+    }
+
+    public Integer getUserAge() {
+        return userAge;
+    }
+
+    public void setUserAge(Integer userAge) {
+        this.userAge = userAge;
+    }
+}

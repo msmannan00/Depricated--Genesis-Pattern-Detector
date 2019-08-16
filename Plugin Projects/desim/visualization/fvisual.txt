@@ -1,0 +1,77 @@
+Total Files <strong>|</strong> 41.00
+Total Filtered Files <strong>|</strong> 41.00
+Filtered Percentage <strong>|</strong> 100.00%
+Total Lines <strong>|</strong> 5926.00
+Total Filtered Lines <strong>|</strong> 5926.00
+Average Lines Per File <strong>|</strong> 144.54
+Filtered File Size <strong>|</strong> 1813.42 kb
+Total File Size <strong>|</strong> 1813.42 kb
+Largest File Size <strong>|</strong> 999.45 kb
+Smallest File Size <strong>|</strong> .00 kb
+Total Directories <strong>|</strong> 36.00
+Max Depth <strong>|</strong> 7.00
+Total Classes <strong>|</strong> 53
+Total Comments <strong>|</strong> 5216
+</div><h2>Files List</h2><div class="list-group">
+BBC - Homepage.html
+a4621041136.html
+iframe.html
+rt=ifr.html
+AndroidManifest.xml
+admanager.java<br> admanager .class :: LongParamSmell
+analyticmanager.java<br> analyticmanager .class :: LongParamSmell
+application_controller.java<br> application_controller .class :: LongParamSmell
+constants.java<br> constants.class
+datamodel.java<br> datamodel.class :: LongParamSmell
+helperMethod.java<br> helperMethod.class :: LongParamSmell
+KeyboardUtils.java<br> KeyboardUtils .class :: LongParamSmell
+message_manager.java<br> message_manager .class :: LongParamSmell
+orbot_manager.java<br> orbot_manager .class :: LongParamSmell
+preference_manager.java<br> preference_manager .class :: LongParamSmell
+status.java<br> status.class
+webRequestHandler.java<br> webRequestHandler.class :: LongParamSmell
+backgradient.xml
+backgradientblack.xml
+backgradientwhite.xml
+border.xml
+cursorcolor.xml
+ic_launcher_background.xml
+lockstyle.xml
+pressedcolor.xml
+progress_style.xml
+searchbar.xml
+shadow.xml
+shape.xml
+topbar.xml
+touch_selector.xml
+ic_launcher_foreground.xml
+application_view.xml
+application_view.xml
+ic_launcher.xml
+ic_launcher_round.xml
+colors.xml
+strings.xml
+styles.xml
+styles.xml
+network_security_config.xml</div><h2>Association List</h2><div class="list-group">Uniary Relation |  admanager  ::  application_controller 
+ | isGodClass false | Uniary Relation |  analyticmanager  ::  application_controller 
+ | isGodClass false | Uniary Relation |  application_controller  ::  constants
+ | isGodClass true | Uniary Relation |  application_controller  ::  datamodel
+ | isGodClass true | Uniary Relation |  application_controller  ::  helperMethod
+ | isGodClass true | Uniary Relation |  application_controller  ::  KeyboardUtils 
+ | isGodClass true | Binary Relation |  application_controller  ::  message_manager 
+ | isGodClass true | Uniary Relation |  application_controller  ::  orbot_manager 
+ | isGodClass true | Uniary Relation |  application_controller  ::  preference_manager 
+ | isGodClass true | Uniary Relation |  application_controller  ::  status
+ | isGodClass true | Binary Relation |  application_controller  ::  webRequestHandler
+ | isGodClass true | Uniary Relation |  datamodel ::  status
+ | isGodClass false | Uniary Relation |  datamodel ::  webRequestHandler
+ | isGodClass false | Uniary Relation |  helperMethod ::  message_manager 
+ | isGodClass false | Uniary Relation |  helperMethod ::  status
+ | isGodClass false | Uniary Relation |  helperMethod ::  webRequestHandler
+ | isGodClass false | Uniary Relation |  message_manager  ::  orbot_manager 
+ | isGodClass true | Uniary Relation |  message_manager  ::  webRequestHandler
+ | isGodClass true | Uniary Relation |  orbot_manager  ::  status
+ | isGodClass false | Uniary Relation |  orbot_manager  ::  webRequestHandler
+ | isGodClass false | Uniary Relation |  preference_manager  ::  webRequestHandler
+ | isGodClass false | 

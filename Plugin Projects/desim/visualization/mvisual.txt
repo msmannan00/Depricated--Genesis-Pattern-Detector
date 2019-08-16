@@ -1,0 +1,73 @@
+C:\xampp\htdocs\desim\Extracted_Source\Software\BBC - Homepage.html | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\BBC - Homepage_files\a4621041136.html | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\BBC - Homepage_files\iframe.html | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\BBC - Homepage_files\rt=ifr.html | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\code (1).txt | POSITIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\code (2).txt | POSITIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\code (3).txt | POSITIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\androidTest\java\com\example\myapplication\ExampleInstrumentedTest.kt | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\AndroidManifest.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\java\com\darkweb\genesissearchengine\admanager.java | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\java\com\darkweb\genesissearchengine\analyticmanager.java | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\java\com\darkweb\genesissearchengine\application_controller.java | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\java\com\darkweb\genesissearchengine\constants.java | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\java\com\darkweb\genesissearchengine\datamodel.java | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\java\com\darkweb\genesissearchengine\helperMethod.java | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\java\com\darkweb\genesissearchengine\KeyboardUtils.java | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\java\com\darkweb\genesissearchengine\message_manager.java | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\java\com\darkweb\genesissearchengine\orbot_manager.java | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\java\com\darkweb\genesissearchengine\preference_manager.java | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\java\com\darkweb\genesissearchengine\status.java | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\java\com\darkweb\genesissearchengine\webRequestHandler.java | POSITIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\backgradient.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\backgradientblack.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\backgradientwhite.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\ban.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\baseline_info_black_48dp.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\baseline_language_black_48dp.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\border.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\cursorcolor.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\homeicon.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\ic_launcher_background.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\interneticon.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\lock.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\lockstyle.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\logo.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\logolarge.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\logolarges.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\pressedcolor.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\progress_style.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\searchbar.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\shadow.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\shape.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\topbar.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\touch_selector.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable\welcome.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\drawable-v24\ic_launcher_foreground.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\layout\application_view.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\layout-v26\application_view.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\mipmap-anydpi-v26\homeicon.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\mipmap-anydpi-v26\ic_launcher.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\mipmap-anydpi-v26\lock.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\mipmap-hdpi\homeicon.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\mipmap-hdpi\ic_launcher_round_v1.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\mipmap-hdpi\ic_launcher_v1.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\mipmap-mdpi\homeicon.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\mipmap-mdpi\ic_launcher_round_v1.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\mipmap-mdpi\ic_launcher_v1.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\mipmap-xhdpi\homeicon.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\mipmap-xhdpi\ic_launcher_round_v1.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\mipmap-xhdpi\ic_launcher_v1.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\mipmap-xxhdpi\homeicon.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\mipmap-xxhdpi\ic_launcher_round_v1.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\mipmap-xxhdpi\ic_launcher_v1.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\mipmap-xxxhdpi\homeicon.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\mipmap-xxxhdpi\ic_launcher_round_v1.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\mipmap-xxxhdpi\ic_launcher_v1.png | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\values\colors.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\values\strings.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\values\styles.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\values-v23\styles.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\main\res\xml\network_security_config.xml | NEGATIVE-newstart-
+C:\xampp\htdocs\desim\Extracted_Source\Software\src\test\java\com\example\myapplication\ExampleUnitTest.kt | NEGATIVE-newstart-
